@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://raj-rathod.github.io/rajesh-rathore/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_rachana_sahu_/)
 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/rachana-sahu)
-![](https://komarev.com/ghpvc/?username=raj-rathod&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=rachana-sahu&label=PROFILE+VIEWS)
 
 I am a **Full Stack Developer** with almost 1+ years of experience, specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝟭𝟬+ and 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜'𝘀 integration. I have extensive experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
 
