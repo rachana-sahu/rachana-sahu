@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachana-sahu-549150243/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://raj-rathod.github.io/rajesh-rathore/)
+[![Website Badge](http://127.0.0.1:5500/index.html)](https://github.com/rachana-sahu/Portfolio)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_rachana_sahu_/)
 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/rachana-sahu)
 ![](https://komarev.com/ghpvc/?username=rachana-sahu&label=PROFILE+VIEWS)
