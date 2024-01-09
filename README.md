@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https:https://linktr.ee/Rachana_Sahu" target="_blank">	𝗥achana Sahu</a> 
+### Hi there, I'm <a href="https:https://linktr.ee/Rachana_Sahu" target="_blank">	𝗥achana Sahu </a> 
 ![image](https://github.com/rachana-sahu/rachana-sahu/assets/115967746/a763d4a6-48da-4801-b841-6670232184c4)
 
 
