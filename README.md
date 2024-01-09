@@ -96,13 +96,13 @@ I educate, refine and drive myself to be a better person
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 4 mins
+Total Time: 1 hr 34 mins
 
-TypeScript   2 hrs 19 mins   ███████████████████░░░░░░   75.61 %
-JSON         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-HTML         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript   52 mins         ██████████████░░░░░░░░░░░   56.00 %
+HTML         19 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+JSON         19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
@@ -110,6 +110,11 @@ TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░
 ##
 <img align="left" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rachana-sahu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Rachana Sahu" />
 <img height="170em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rachana-sahu&layout=compact&theme=tokyonight&hide_border=true"alt="Rachana Sahu" /> 
+
+<!-- ##
+
+### Latest Tweets
+ [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055) -->
 
  ## 
 
