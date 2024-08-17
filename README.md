@@ -1,6 +1,4 @@
 ### Hi there, I'm <a href="https:https://linktr.ee/Rachana_Sahu" target="_blank">	𝗥achana Sahu </a> 
-![image](https://github.com/rachana-sahu/rachana-sahu/assets/115967746/a763d4a6-48da-4801-b841-6670232184c4)
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachana-sahu-549150243/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://127.0.0.1:5500/index.html)
